@@ -14,7 +14,7 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 
 <div align="left">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light&roadmaps=frontend" alt="roadmap.sh"/></a><br>
-  <figcaption><em>Follow my frontend progress. #RoadCard</em></figcaption>
+  <figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>
 </div>
 
 <p>&nbsp;</p>
