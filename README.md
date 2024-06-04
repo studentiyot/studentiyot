@@ -10,31 +10,13 @@ I like to engage in different communities and enjoy participating in design chal
 
 Technology moves fast! In this rapid landscape, I advocate for a "slow tech" philosophy, embracing a lean web approach. I aim to establish or contribute to a boutique firm crafting tailored web experiences for artists, micro-businesses, and non-profits.
 
-<p>&nbsp;</p>
 
-<div align="left">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light&roadmaps=frontend" alt="roadmap.sh"/></a><br>
-  <figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>
-</div>
-
-<p>&nbsp;</p>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light)](https://roadmap.sh)
 <figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>
 
-<p>&nbsp;</p>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f?variant=dark&t=1704802165428)](https://roadmap.sh)
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=dark" alt="roadmap.sh"/></a>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b17cfa5f038d81eeb3ec57?variant=light&t=1704802165428)](https://roadmap.sh)
-<figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>
-
-
-<p>&nbsp;</p>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f?variant=light)](https://roadmap.sh)
-<figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>
-
-<p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
