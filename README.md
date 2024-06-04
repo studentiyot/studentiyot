@@ -19,6 +19,11 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 
 <p>&nbsp;</p>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light)](https://roadmap.sh)
+<figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>
+
+<p>&nbsp;</p>
+
 - 🔭 I’m currently working on refinement of this webpage.
 - 🌱 I’m learning HTML/CSS/JavaScript plus distributed version control.
 - 👯 I’m looking to collaborate on tools and resources for new learners.
