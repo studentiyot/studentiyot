@@ -10,16 +10,9 @@ I like to engage in different communities and enjoy participating in design chal
 
 Technology moves fast! In this rapid landscape, I advocate for a "slow tech" philosophy, embracing a lean web approach. I aim to establish or contribute to a boutique firm crafting tailored web experiences for artists, micro-businesses, and non-profits.
 
-
 <figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f?variant=dark&t=1704802165428)](https://roadmap.sh)
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=dark" alt="roadmap.sh"/></a>
-
-
-
-<p>&nbsp;</p>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f?variant=dark" alt="roadmap.sh"/></a>
 
 - 🔭 I’m currently working on refinement of this webpage.
 - 🌱 I’m learning HTML/CSS/JavaScript plus distributed version control.
