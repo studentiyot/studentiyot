@@ -7,7 +7,7 @@ I’ll attempt to study at least 6 hours a day alongside a Discord Study Group w
 [^§§]: *[The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp) created by Dr. Angela Yu (Udemy).*
 
 
-##Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Curriculum](#curriculum)
@@ -24,7 +24,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 
 ## Curriculum
 
-###Phase 1: Front-End and Basic HTML/CSS
+### Phase 1: Front-End and Basic HTML/CSS
 - Routing, Servers, Hosting [section 1]
 - Basic HTML Structure, Elements, Attributes [sections 2–3]
 - **Capstone Project 1** [section 4]
@@ -32,19 +32,19 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 - CSS Layouts, Flexbox, and Grid [sections 8–10]
 - Front-End Frameworks: Bootstrap [section 11]
 
-###Phase 2: Web Design
+### Phase 2: Web Design
 - Introduction to Web Design, Color Theory, Typography, UX/UI [section 12] 
 - **Capstone Project 2** [section 13]
 
-###Phase 3: JavaScript
+### Phase 3: JavaScript
 - JS Fundamentals, Variables, Data Types, Arithmetic, Modulo, Functions [section 14]
 - Control Statements and Logic, Arrays [section 15]
 -  DOM Model, Dom Manipulation, Event Handling, jQuery, ES6 Features [sections 16–20]
 
-###Phase 4: The Unix Command Line
+### Phase 4: The Unix Command Line
 - Unix Command Line Techniques, Navigation, and File Manipulation [section 21]
 
-###Phase 5: Back-End Development
+### Phase 5: Back-End Development
 - Tools and Technologies, Node.js, NPM Package Manager [sections 22–23]
 - Express.js Servers, HTTP Requests, Middlewares [section 24]
 - Introduction to EJS, Tags, Templates, Layout [section 25]
@@ -58,24 +58,24 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 - Introduction to Postgres, PostgreSQL, pgAdmin, CRUD [section 33]
 - **Capstone Project 5** [section 34]
 
-###Phase 6: Full-Stack Development
+### Phase 6: Full-Stack Development
 - Integrating Front-End & Back-End, Authentication, Encryption, Cookies & Sessions, OAuth [section 35]
 - React.js, Local Development, JSX, Babel, Hooks, Dependencies, ES6 [section 36]
 
 
-###Phase 7: Web3 | Decentralized App (DApp) Development
+### Phase 7: Web3 | Decentralized App (DApp) Development
 - Introduction to Web3 DApp, DBANK, Blockchain [sections 37–39]
 - Building DApps on ICP w/ React Frontend [section 40]
 - Crypto Tokens, NFTs, NFT Marketplace [sections 41–42]
 
-##Projects
+## Projects
 
-###Capstone 1: Online Resume
+### Capstone 1: Online Resume
 - **Design Brief:** Create an online resume using only HTML.
 - **Deliverables:** HTML file for structure, Resume content.
 - **Technologies:** HTML
 
-###Capstone 2: Personal Website
+### Capstone 2: Personal Website
 - **Design Brief:** Create a personal website using HTML and CSS.
 - **Deliverables:** HTML file, CSS file, Assets (e.g., images, fonts).
 - **Features:** Hero section, Resume page, Projects page, About Me, Contact page.
@@ -86,7 +86,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
     - Stage 3: Finalize design and content, optimize for performance, launch the website.
 - **Technologies:** HTML, CSS
 
-###Capstone 3: Blogging Platform
+### Capstone 3: Blogging Platform
 - **Design Brief:** Create a blog web application using Node.js, Express.js, and EJS.
 - **Deliverables:** Node project, EJS templates, CSS files.
 - **Features:** Create, update, delete posts; responsive design.
@@ -100,7 +100,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 - **Technologies:** Node.js, Express.js, EJS, JavaScript, HTML, CSS
 
 
-###Capstone 4: Use a Public API
+### Capstone 4: Use a Public API
 - **Design Brief:** Build a website using Express/Node.js and Axios to integrate a public API, presenting data in a user-friendly manner.
 - **Objectives:**
   - Develop understanding of API integration in web projects.
@@ -118,7 +118,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 - **Timeline:** Adapt based on project complexity.
 - **Technologies:** Express.js, Node.js, Axios HTTP client, Public APIs, CORS, HTML, CSS, JavaScipt.
 
-###Capstone 5: Book Notes Web App
+### Capstone 5: Book Notes Web App
 - **Design Brief:** Develop a sortable Book Notes web application to manage titles, notes, and ratings, integrating with PostgreSQL for data persistence.[^††]
 [^††]: *Idea based on [Derek Sivers Books I’ve read](https://sive.rs/book), where all the nonfiction books he has read, his notes, his ratings, and when he read them are stored. The books are sortable by rating, recency, and title.*
 - **Objectives:**
@@ -138,7 +138,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 - **Technologies:** Public APIs, Express/Node.js, PostgreSQL, JavaScript, HTML, CSS
 
 
-##Resources
+## Resources
 
 - **HTML & CSS:**
   - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -169,7 +169,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
     - [Open Library *(covers API)*](https://openlibrary.org/dev/docs/api/covers)
     - [More free APIs](https://rapidapi.com/collection/list-of-free-apis)
 
-##Milestones
+## Milestones
 
 - **Phase 1:** Completed HTML basics, built first webpage.
 - **Phase 2:** Learned CSS fundamentals and design principles, created a responsive layout, utilized UX/UI concepts.
@@ -183,7 +183,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 - **Phase 6c:** Created first React component, managed state and props.
 - **Phase 7:** Deployed applications with Express.
 
-##Future Goals
+## Future Goals
 
 - Contribute to open-source projects and build a strong GitHub portfolio.
 - Build 16 web development projects for my portfolio.
@@ -193,7 +193,7 @@ Learning HTML, CSS, Javascript, React, Node, and Web3 development. Master front-
 - Master back-end development with Node.
 - Complete a tutorial on professional developer best practices and apply them in projects.
 
-##Contact
+## Contact
 
 Thank you for checking out my Web Development Bootcamp progress! Stay tuned for more updates and projects.
 
@@ -203,6 +203,5 @@ If you have any questions or suggestions, feel free to reach out to me:
 - **GitHub:** [Find me on GitHub](https://github.com/studentiyot)
 
 
-###References
-
+### References
 
