@@ -35,3 +35,4 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 </p>
 ![](https://api.roadmap.sh/v1/badge/studentiyot/665f7a0cb998f3b3c7a9543f)
 ![](https://api.roadmap.sh/v1/badge/studentiyot/665f7a0cb998f3b3c7a9543f)
+![](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f)
