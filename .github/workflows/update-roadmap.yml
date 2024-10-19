@@ -21,7 +21,7 @@ jobs:
     - name: Update README with the latest badge
       run: |
         # Use printf to properly format the output
-        printf "\n![](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f)\n" >> README.md
+        printf "[](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f)" > README.md
 
     - name: Commit changes
       run: |
