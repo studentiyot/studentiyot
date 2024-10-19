@@ -1,0 +1,31 @@
+name: Update Roadmap Badge
+
+on:
+  schedule:
+    # Runs the action every 6 hours to check for updates
+    - cron: '*/10 * * * *'
+
+
+jobs:
+  update-roadmap:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository content
+      uses: actions/checkout@v2
+
+    - name: Fetch roadmap data from roadmap.sh
+      run: |
+        curl -s https://api.roadmap.sh/v1/users/studentiyot/roadmaps/665f7a0cb998f3b3c7a9543f -o roadmap.json
+
+    - name: Update README with the latest badge
+      run: |
+        echo "![](https://api.roadmap.sh/v1/badge/studentiyot/665f7a0cb998f3b3c7a9543f)" >> README.md
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update roadmap badge"
+        git push
