@@ -20,7 +20,7 @@ jobs:
 
     - name: Update README with the latest badge
       run: |
-        echo "![](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f)" >> README.md
+        echo "\n![](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f)" >> README.md
         # echo "![](https://api.roadmap.sh/v1/badge/studentiyot/665f7a0cb998f3b3c7a9543f)" >> README.md
 
     - name: Commit changes
