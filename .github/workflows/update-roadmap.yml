@@ -3,7 +3,7 @@ name: Update Roadmap Badge
 on:
   schedule:
     # Runs the action every 6 hours to check for updates
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
 
 
 jobs:
