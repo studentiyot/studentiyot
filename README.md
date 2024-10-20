@@ -39,4 +39,4 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=studentiyot)](https://github.com/studentiyot/github-readme-stats)
