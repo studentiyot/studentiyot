@@ -16,7 +16,10 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 <!-- Original roadmap.sh badge (non-updating) -->
 <!-- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f?variant=dark" alt="roadmap.sh"/></a></br> -->
 
-[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light&roadmaps=frontend)](https://roadmap.sh)
+<!-- Second "Original" roadmap.sh badge (non-updating) -->
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light&roadmaps=frontend)](https://roadmap.sh) -->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?v=1)](https://roadmap.sh)
 
 - 🔭 I’m currently working on refinement of this webpage.
 - 🌱 I’m learning HTML/CSS/JavaScript plus distributed version control.
