@@ -5,4 +5,4 @@
 <figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>  
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?v=1)](https://roadmap.sh)
