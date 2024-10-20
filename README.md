@@ -18,7 +18,6 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 
 [![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light&roadmaps=frontend)](https://roadmap.sh)
 
-
 - 🔭 I’m currently working on refinement of this webpage.
 - 🌱 I’m learning HTML/CSS/JavaScript plus distributed version control.
 - 👯 I’m looking to collaborate on tools and resources for new learners.
@@ -29,6 +28,13 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 - ⚡ Fun fact: I once aspired to be a defense attorney due to my deft negotiation skills honed from persuading my two brothers out of parental reprimands.
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="center">
+  <a href="https://github.com/studentiyot/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=studentiyot">
+  </a>
+</p>
+
 <p align="center">
   <em>Skills: Community Management | Mobile and Web Development | Technical Writing</em>
 </p>
@@ -39,4 +45,7 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=studentiyot)](https://github.com/studentiyot/github-readme-stats)
+
+
+
+
