@@ -46,6 +46,7 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 </p>
 
 
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?)](https://roadmap.sh) -->
 
 
 
