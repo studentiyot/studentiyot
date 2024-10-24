@@ -1,4 +1,4 @@
 name: mazal studentiyot
 project: my personal profile page
 markdown: kramdown
-
+baseurl: /studentiyot
