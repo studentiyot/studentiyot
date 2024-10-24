@@ -1,4 +1,4 @@
-name: mazal studentiyot
+title: mazal studentiyot
 project: my personal profile page
 markdown: kramdown
 
@@ -9,3 +9,4 @@ permalink: date
 
 
 <!-- baseurl: /studentiyot -->
+
