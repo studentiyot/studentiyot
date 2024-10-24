@@ -1,9 +1,8 @@
 - name: Home
-  link: {{ site.baseurl }}
+  link: /studentiyot
 - name: About
-  link: {{ site.baseurl }}/my_jekyll_site/index-bkup
+  link: /studentiyot/my_jekyll_site/index-bkup
 - name: Blog
-  link: {{ site.baseurl }}/blog
+  link: /studentityot/blog
 - name: Bootcamp
-  link: {{ site.baseurl }}/tests/test-markdown
-
+  link: /studentiyot/tests/test-markdown
