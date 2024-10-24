@@ -1,4 +1,4 @@
-<img width="1834" alt="myREADME-BANNER" src="https://github.com/studentiyot/studentiyot/assets/158574576/9bd1426f-27bd-44ad-a58b-7f2dda2a76aa">
+<img width="917" alt="myREADME-BANNER" src="https://github.com/studentiyot/studentiyot/assets/158574576/9bd1426f-27bd-44ad-a58b-7f2dda2a76aa">
 
 ### Hello World! 👋
 
