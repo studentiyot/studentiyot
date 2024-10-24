@@ -1,9 +1,9 @@
 - name: Home
-  link: /{{ site.baseurl }}
+  link: {{ site.baseurl }}
 - name: About
-  link: /{{ site.baseurl }}/my_jekyll_site/index-bkup
+  link: {{ site.baseurl }}/my_jekyll_site/index-bkup
 - name: Blog
-  link: /{{ site.baseurl }}/blog
+  link: {{ site.baseurl }}/blog
 - name: Bootcamp
-  link: /{{ site.baseurl }}/tests/test-markdown
+  link: {{ site.baseurl }}/tests/test-markdown
 
