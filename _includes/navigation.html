@@ -1,6 +1,6 @@
-    <nav>
-    <!-- This illustration of Navbar with link highlighting -->
-      {% for item in site.data.navigation %}
+<!-- This illustration of Navbar with link highlighting -->
+<nav>
+    {% for item in site.data.navigation %}
         <a href="{{ item.link | prepend: site.baseurl }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
-      {% endfor %}
-    </nav>
+    {% endfor %}
+</nav>
