@@ -1,11 +1,10 @@
-<!-- This illustration of Navbar with link highlighting w/CLASSES DOES NOT WORK -->
+<!-- This illustration of Navbar with link highlighting w/CLASSES DOES NOT WORK
 <nav>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
   {% endfor %}
 </nav>
-
-
+-->
 
 <nav>
     {% for key in site.data.navigation %}
