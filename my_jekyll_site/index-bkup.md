@@ -26,6 +26,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
       <li>{{key.link}}</li>
       <li>{{key.url}}</li>
       <li>{{key.title}}</li>
+      <li> </li>
  {% endfor %}
   </ol>
 
