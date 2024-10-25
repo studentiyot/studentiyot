@@ -22,8 +22,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
 <h2>Output all page LINKs</h2>
   <ol>
     {% for key in site.pages %}
-      <li>{{key.link.url}}</li>
-      <li>{{key.page.url}}</li>
+      <li>{{key.text}}</li>
     {% endfor %}
   </ol>
 
@@ -31,6 +30,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
   <ol>
     {% for key in site.pages %}
       <li>{{key.title}}</li>
+      <li>{{key.link}}</li>
     {% endfor %}
   </ol>
 
