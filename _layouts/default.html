@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <!-- link to main stylesheets -->
-    <link rel="stylesheet" href="{{ "/assets/css/not_main.css" | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
-  </head>
-  <body>
-    {% include navigation.html %}
-    {{ content }}
-  </body>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <!-- link to main stylesheets -->
+        <link rel="stylesheet" href="{{ "/assets/css/not_main.css" | prepend: site.baseurl }}">
+        <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
+    </head>
+    <body>
+        {% include navigation.html %}
+        {{ content }}
+    </body>
 </html>
