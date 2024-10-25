@@ -5,7 +5,8 @@
     <title>{{ page.title }}</title>
     <!-- link to main stylesheets -->
     <!-- <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/not_main.css"> -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+    <!-- <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css"> -->
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
   </head>
   <body>
     {% include navigation.html %}
