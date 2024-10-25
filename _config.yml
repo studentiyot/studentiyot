@@ -6,7 +6,5 @@ website: https://studentiyot.github.io
 basewebsite: /studentiyot
 permalink: date
 
-
-
-<!-- baseurl: /studentiyot -->
+baseurl: /studentiyot
 
