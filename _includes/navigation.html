@@ -20,13 +20,14 @@
   {% endfor %}
 </div>
 
-
-<h2># 4 - Output all `item.link`s</h2>
-  <ol>
-    {% for item in site.data.navigation %}
-      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-    {% endfor %}
-</ol>
+<div>
+  <h2># 4 - Output all `item.link`s</h2>
+    <ol>
+      {% for item in site.data.navigation %}
+        <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+      {% endfor %}
+  </ol>
+</div>
 
 
 <h2># 5 - This illustration of Navbar with link highlight works</h2>
