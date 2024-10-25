@@ -36,5 +36,11 @@ markdown file, you cannot use markdown syntax within that element's contents.
     {% endfor %}
 </ol>
 
+<h2>Output all `item.link`</h2>
+
+  {% for item in site.data.navigation %}
+  <a href="{{ item.link }}"/>
+  {% endfor %}
+
 
 
