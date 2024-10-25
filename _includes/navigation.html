@@ -7,7 +7,7 @@
 
 <div>
   <h2># 2 - for key in site.pages</h2>
-  {% for key in site.pages %}
+  {% for item in site.pages %}
     <a href="{{ item.link }}">{{ item.name }}</a>
   {% endfor %}
 </div>
@@ -24,7 +24,7 @@
 
 <div>
   <h2># 3 - for key in site.pages</h2>
-  {% for key in site.pages %}
+  {% for item in site.pages %}
     <a href="<li>{{key.url}}>{{ item.name }}</a>
   {% endfor %}
 </div>
