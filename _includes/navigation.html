@@ -1,11 +1,12 @@
+<!-- This illustration of link highlighting w/CLASSES DOES NOT WORK -->
 <nav>
   {% for item in site.data.navigation %}
-    <a href="/studentiyot{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
+    <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
   {% endfor %}
 </nav>
 
 
-<!-- This illusstration of link highlight works
+<!-- This illustration of link highlight works
 <nav>
   <a href="/studentiyot" {% if page.url == "/" %}style="color: red;"{% endif %}>
     Home
@@ -15,3 +16,4 @@
   </a>
 </nav>
 -->
+
