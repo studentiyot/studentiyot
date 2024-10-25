@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: About
-  link: /my_jekyll_site/index-bkup.html
+  link: /about.html
 - name: Blog
   link: /blog.html
 - name: Bootstrap
