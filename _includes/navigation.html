@@ -5,39 +5,4 @@
   {% endfor %}
 </nav>
 
-<div>
-  <h2># 2 - for key in site.pages</h2>
-  {% for item in site.pages %}
-    <a href="{{ item.link }}">{{ item.name }}</a>
-  {% endfor %}
-</div>
-
-<div>
-  <h2># 4 - Output all item.link's</h2>
-  <ol>
-    {% for item in site.data.navigation %}
-      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-    {% endfor %}
-  </ol>
-</div>
-
-
-<div>
-  <h2># 3 - for key in site.pages</h2>
-  {% for item in site.pages %}
-    <a href="<li>{{key.url}}>{{ item.name }}</a>
-  {% endfor %}
-</div>
-
-
-<div>
-  <h2># 5 - This illustration of Navbar with link highlight works</h2>
-    <a href="/studentiyot" {% if page.url == "/" %}style="color: red;"{% endif %}>
-      Home
-    </a>
-    <a href="/studentiyot/my_jekyll_site/index-bkup.html" {% if page.url == "/my_jekyll_site/index-bkup.html" %}style="color: green;"{% endif %}>
-      About
-  </a>
-</div>
-
 
