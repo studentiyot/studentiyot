@@ -1,4 +1,4 @@
-<!-- This illustration of Navbar with link highlighting w/CLASSES DOES NOT WORK -->
+This illustration of Navbar with link highlighting w/CLASSES DOES NOT WORK
 <nav>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
@@ -22,16 +22,15 @@
 
 
 
-<!--
 <h2>Output all `item.link`s</h2>
   <ol>
     {% for item in site.data.navigation %}
       <li><a href="{{ item.link }}">{{ item.name }}</a></li>
     {% endfor %}
   </ol>
--->
 
-<!-- This illustration of Navbar with link highlight works
+
+This illustration of Navbar with link highlight works
 <nav>
   <a href="/studentiyot" {% if page.url == "/" %}style="color: red;"{% endif %}>
     Home
@@ -40,5 +39,5 @@
     About
   </a>
 </nav>
--->
+
 
