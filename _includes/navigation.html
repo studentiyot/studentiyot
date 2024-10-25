@@ -6,20 +6,22 @@
 </nav>
 
 <div>
-  {% for item in site.data.navigation %}
+  <h2># 1 - for key in site.pages</h2>
+  {% for key in site.pages %}
     <a href="{{ item.link }}">{{ item.name }}</a>
   {% endfor %}
 </div>
 
 
 <div>
-    {% for key in site.pages %}
-        <a href="<li>{{key.url}}>{{ item.name }}</a>
-    {% endfor %}
+  <h2># 2 - for key in site.pages</h2>
+  {% for key in site.pages %}
+    <a href="<li>{{key.url}}>{{ item.name }}</a>
+  {% endfor %}
 </div>
 
 
-<h2>Output all `item.link`s</h2>
+<h2># 3 - Output all `item.link`s</h2>
   <ol>
     {% for item in site.data.navigation %}
       <li><a href="{{ item.link }}">{{ item.name }}</a></li>
@@ -27,7 +29,7 @@
 </ol>
 
 
-<!-- This illustration of Navbar with link highlight works -->
+<h2>This illustration of Navbar with link highlight works</h2>
 <nav>
   <a href="/studentiyot" {% if page.url == "/" %}style="color: red;"{% endif %}>
     Home
