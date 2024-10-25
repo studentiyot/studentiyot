@@ -12,26 +12,22 @@ You can use HTML elements in Markdown, such as the comment element, and they won
 be affected by a markdown parser. However, if you create an HTML element in your
 markdown file, you cannot use markdown syntax within that element's contents.
 
-<div>
-  // Output by URL
+  ### Output all page URLs
   <ol>
-    ### URL
     {% for key in site.pages %}
       <li>{{key.url}}</li>
     {% endfor %}
   </ol>
 
-  // Output by title
+  ### Output all page titles
   <ol>
-    ### Title
     {% for key in site.pages %}
       <li>{{key.title}}</li>
     {% endfor %}
   </ol>
 
-  // Filter by title
+  ### Filter by title
   <ol>
-    ### Site.pages
     {% for key in site.pages %}
     {% if key.title %}
         <li>{{key.title}}</li>
