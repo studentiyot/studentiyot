@@ -34,4 +34,3 @@ markdown file, you cannot use markdown syntax within that element's contents.
     {% endif %}
     {% endfor %}
 </ol>
-</div>
