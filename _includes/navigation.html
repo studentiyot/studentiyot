@@ -30,13 +30,14 @@
 </div>
 
 
-
-<h2># 5 - This illustration of Navbar with link highlight works</h2>
-  <a href="/studentiyot" {% if page.url == "/" %}style="color: red;"{% endif %}>
-    Home
+<div>
+  <h2># 5 - This illustration of Navbar with link highlight works</h2>
+    <a href="/studentiyot" {% if page.url == "/" %}style="color: red;"{% endif %}>
+      Home
+    </a>
+    <a href="/studentiyot/my_jekyll_site/index-bkup.html" {% if page.url == "/my_jekyll_site/index-bkup.html" %}style="color: green;"{% endif %}>
+      About
   </a>
-  <a href="/studentiyot/my_jekyll_site/index-bkup.html" {% if page.url == "/my_jekyll_site/index-bkup.html" %}style="color: green;"{% endif %}>
-    About
-  </a>
+</div>
 
 
