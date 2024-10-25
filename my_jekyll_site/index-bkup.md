@@ -15,6 +15,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
 <div>
   // Output by title
   <ol>
+    ### URL
     {% for key in site.pages %}
       <li>{{key.url}}</li>
     {% endfor %}
@@ -22,6 +23,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
 
   // Output by title
   <ol>
+    ### Title
     {% for key in site.pages %}
       <li>{{key.title}}</li>
     {% endfor %}
@@ -29,6 +31,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
 
   // Filter by title
   <ol>
+    ### Site.pages
     {% for key in site.pages %}
     {% if key.title %}
         <li>{{key.title}}</li>
