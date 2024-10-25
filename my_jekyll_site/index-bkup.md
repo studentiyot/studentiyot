@@ -14,8 +14,8 @@ markdown file, you cannot use markdown syntax within that element's contents.
 
 <h2>Output all page URLs</h2>
   <ol>
-    {% for item in site.data.navigation %}
-      <li>{{ item.url }}</li>
+    {% for key in site.data.navigation %}
+      <li>{{ page.url }}</li>
     {% endfor %}
   </ol>
 
