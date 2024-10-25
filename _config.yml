@@ -2,5 +2,5 @@ title: mazal studentiyot
 project: my personal profile page
 markdown: kramdown
 
-baseurl: /studentiyot
+baseurl: /studentiyot/test
 url: http://studentiyot.github.io/studentiyot
