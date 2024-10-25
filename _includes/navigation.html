@@ -1,5 +1,18 @@
+<!--
 <nav>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
   {% endfor %}
+</nav>
+-->
+
+
+
+<nav>
+  <a href="/studentiyot" {% if page.url == "/" %}style="color: green;"{% endif %}>
+    Home
+  </a>
+  <a href="studentiyot/about.html" {% if page.url == "/about.html" %}style="color: red;"{% endif %}>
+    About
+  </a>
 </nav>
