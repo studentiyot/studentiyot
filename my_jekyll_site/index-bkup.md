@@ -39,7 +39,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
 <h2>Output all `item.link`</h2>
 
   {% for item in site.data.navigation %}
-  <a href="{{ item.link }}"/>
+  <a href="{{ item.link }}">{{ item.link }}</a>
   {% endfor %}
 
 
