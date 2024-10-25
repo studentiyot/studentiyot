@@ -1,13 +1,11 @@
-<!--
 <nav>
   {% for item in site.data.navigation %}
-    <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
+    <a href="/studentiyot{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
   {% endfor %}
 </nav>
--->
 
 
-
+<!--
 <nav>
   <a href="/studentiyot" {% if page.url == "/" %}style="color: red;"{% endif %}>
     Home
@@ -16,3 +14,4 @@
     About
   </a>
 </nav>
+-->
