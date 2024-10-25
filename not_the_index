@@ -1,0 +1,19 @@
+---
+# front matter tells Jekyll to process Liquid
+title: Not_the_index
+my_number: 5
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>{{ Hello World! }} | downcase</h1>
+    <p>I'm not the site's index page.</p>
+
+    {{ page.my_number }}
+  </body>
+</html>
