@@ -1,5 +1,6 @@
 ---
 # front matter tells Jekyll to process Liquid
+layout: default
 title: Not_the_index
 my_number: 5
 ---
