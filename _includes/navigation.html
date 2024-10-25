@@ -7,14 +7,14 @@
 
 <nav>
     {% for item in site.data.navigation %}
-      <a href="{{ item.link }}">{{ item.link }}</a>
+      <a href="{{ item.link }}">{{ item.name }}</a>
     {% endfor %}
 </nav>
 
 <h2>Output all `item.link`s</h2>
   <ol>
     {% for item in site.data.navigation %}
-      <li><a href="{{ item.link }}">{{ item.link }}</a></li>
+      <li><a href="{{ item.link }}">{{ item.name }}</a></li>
     {% endfor %}
   </ol>
 
