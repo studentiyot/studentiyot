@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /studentiyot
 - name: About
-  link: /my_jekyll_site/index-bkup
+  link: /studentiyot/my_jekyll_site/index-bkup
 - name: Blog
-  link: /blog
+  link: /studentiyot/blog
 - name: Bootstrap
   link: /studentiyot/tests/test-markdown
