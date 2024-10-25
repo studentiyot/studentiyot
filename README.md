@@ -2,6 +2,8 @@
 
 ### Hello World! 👋
 
+This is the README.md page.
+
 My name is **Mazal Bohbot Berrie.** I'm from City Colleges of Chicago, pursuing the Web Development track, Associate in Applied Science.
 
 I have an interest in UX/UI design as well as coding. Currently, I'm studying HTML, CSS, and JavaScript with a close interest in the development stack and toolchain used to help new learners overcome obstacles when starting out.
