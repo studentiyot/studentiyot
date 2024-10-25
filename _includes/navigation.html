@@ -5,17 +5,23 @@
   {% endfor %}
 </nav>
 
+<hr>
+
 <nav>
-    {% for item in site.data.navigation %}
+    {% for key in site.data.navigation %}
       <a href="{{ item.link }}">{{ item.name }}</a>
     {% endfor %}
 </nav>
+
+<hr>
 
 <nav>
     {% for key in site.pages %}
         <a href="<li>{{key.url}}>{{ item.name }}</a>
     {% endfor %}
 </nav>
+
+<hr>
 
 <h2>Output all `item.link`s</h2>
   <ol>
