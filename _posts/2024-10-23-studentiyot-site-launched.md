@@ -1,7 +1,7 @@
 ---
 layout: post
 author: mazal
-title: "Coding Monkey & Studentiyot, Launches Site"
+title: "Studentiyot & Coding Monkey  Launches Site"
 date: 2024-10-23
 ---
 
