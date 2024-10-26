@@ -6,6 +6,8 @@
         <!-- link to main stylesheets -->
         <link rel="stylesheet" href="{{ "/assets/css/not_main.css" | prepend: site.baseurl }}">
         <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">
+        {% feed_meta %}
+        {% seo %}
     </head>
     <body>
         {% include navigation.html %}
