@@ -1,7 +1,12 @@
 # frozen_string_literal: true
+source 'https://rubygems.org'
 
-source "https://rubygems.org"
+gem "jekyll"
+
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+end
 
 git_source(:github) {|studentiyot| "https://github.com/#{studentiyot}" }
-
-# gem "rails"
