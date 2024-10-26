@@ -6,5 +6,11 @@ layout: default
 
 {{ content }}
 
-
-<p>Hello Post?</p>
+<p>
+  <!-- {{ page.date | date_to_string }} -->
+  Read more by
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %}
+    <a href="{{ author.url | prepend: site.baseurl }}">{{ author.name }}</a>
+  {% endif %}
+</p>
