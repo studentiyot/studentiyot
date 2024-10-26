@@ -40,4 +40,6 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-family: monospace;
+    font-size: 1em;
 }

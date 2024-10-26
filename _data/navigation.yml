@@ -6,3 +6,5 @@
   link: /blog.html
 - name: Bootstrap
   link: /tests/test-markdown.html
+- name: Staff
+  link: /staff.html

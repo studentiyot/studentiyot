@@ -1,5 +1,4 @@
 ---
-layout: default
 title: About
 ---
 
@@ -46,3 +45,15 @@ markdown file, you cannot use markdown syntax within that element's contents.
     {% endif %}
     {% endfor %}
 </ol>
+
+
+<h2>Staff</h2>
+
+<ul>
+  {% for author in site.authors %}
+    <li>
+      <a href="{{ author.url | prepend: site.baseurl }}">{{ author.name }}</a> | /<{{ author.url }}/>
+      {{ author.position }}
+    </li>
+  {% endfor %}
+</ul>
