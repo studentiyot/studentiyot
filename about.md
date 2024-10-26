@@ -24,7 +24,7 @@ markdown file, you cannot use markdown syntax within that element's contents.
 <h2>Output all `item.link`s</h2>
   <ol>
     {% for item in site.data.navigation %}
-      <li><a href="{{ item.link }}">{{ item.link }}</a></li>
+      <li><a href="{{ item.link | prepend: site.baseurl }}">{{ item.link }}</a></li>
     {% endfor %}
   </ol>
 
