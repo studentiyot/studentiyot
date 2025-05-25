@@ -13,24 +13,18 @@ I like to engage in different communities and enjoy participating in design chal
 Technology moves fast! In this rapid landscape, I advocate for a "slow tech" philosophy, embracing a lean web approach. I aim to establish or contribute to a boutique firm crafting tailored web experiences for artists, micro-businesses, and non-profits.
 
 <!-- Figcaption -->
-<figcaption><em>Follow my frontend learning progress. #RoadCard</em>
+<figcaption><em>Follow my frontend learning progress. #RoadCard</em></figcaption>  
 
-<!-- Original roadmap.sh badge (non-updating) -->
-<!-- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f?variant=dark" alt="roadmap.sh"/></a></br> -->
+[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?v=1)](https://roadmap.sh)
 
-<!-- Second "Original" roadmap.sh badge (non-updating) -->
-<!-- [![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?variant=light&roadmaps=frontend)](https://roadmap.sh) -->
-
-[![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?)](https://roadmap.sh)
-
-- 🔭 I’m currently working on refinement of this webpage.
-- 🌱 I’m learning HTML/CSS/JavaScript plus distributed version control.
-- 👯 I’m looking to collaborate on tools and resources for new learners.
-- 🤔 I’m looking for help with best practices and getting my development stack humming.
-- 💬 Ask me about the mysteries of the universe... or where to find the best pizza in town!
-- 📫 How to reach me: **Twitter** @lezelmaz | **Discord** @mazal_bb
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I once aspired to be a defense attorney due to my deft negotiation skills honed from persuading my two brothers out of parental reprimands.
+- 🔭 I’m currently working on refinement of this webpage.  
+- 🌱 I’m learning HTML/CSS/JavaScript plus distributed version control.  
+- 👯 I’m looking to collaborate on tools and resources for new learners.  
+- 🤔 I’m looking for help with best practices and getting my development stack humming. 
+- 💬 Ask me about the mysteries of the universe... or where to find the best pizza in town! 
+- 📫 How to reach me: **Twitter** @lezelmaz | **Discord** @mazal_bb 
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I once aspired to the legal profession after skillfully negotiating with my parents to rescind reprimands aimed at my brothers.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -49,11 +43,3 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,bash,git" />
   </a>
 </p>
-
-
-<!-- [![roadmap.sh](https://roadmap.sh/card/wide/665f7a0cb998f3b3c7a9543f?)](https://roadmap.sh) -->
-
-
-
-
-![](https://api.roadmap.sh/v1-badge/wide/665f7a0cb998f3b3c7a9543f)
