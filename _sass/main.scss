@@ -1,3 +1,15 @@
+html {
+  font-size: 100%; /* Sets the base font size for the root element (html) */
+}
+
+body {
+  font-size: 1rem; /* Inherits the base font size set on html */
+}
+
+p {
+  font-size: 1.2rem; /* Also inherits the base font size from body */
+}
+
 a.current {
 	color: green;
 	text-decoration: none;
