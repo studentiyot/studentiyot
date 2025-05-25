@@ -36,7 +36,7 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
 - 💬 Ask me about the mysteries of the universe... or where to find the best pizza in town!
 - 📫 How to reach me: **Twitter** @lezelmaz | **Discord** @mazal_bb
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I once aspired to be a defense attorney due to my deft negotiation skills honed from persuading my two brothers out of parental reprimands.
+- ⚡ Fun fact: I once aspired to the legal profession after skillfully negotiating with my parents to rescind reprimands aimed at my brothers.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
