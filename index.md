@@ -4,9 +4,9 @@ title: Home
 ---
 <img width="917" alt="myREADME-BANNER" src="https://github.com/studentiyot/studentiyot/assets/158574576/9bd1426f-27bd-44ad-a58b-7f2dda2a76aa">
 
-## Hello Vercel World! 👋
+### Hello Vercel World! 👋
 
-This is an index.md page.
+This is the index.md page.
 
 My name is **Mazal Bohbot Berrie.** I'm from City Colleges of Chicago, pursuing the Web Development track, Associate in Applied Science.
 
