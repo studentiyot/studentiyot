@@ -43,3 +43,5 @@ Technology moves fast! In this rapid landscape, I advocate for a "slow tech" phi
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,bash,git" />
   </a>
 </p>
+
+<!-- hello worl -->
